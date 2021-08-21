@@ -1,0 +1,24 @@
+{
+  "name": "eslint-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstneverrest/ESLint-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firstneverrest/ESLint-Learning/issues"
+  },
+  "homepage": "https://github.com/firstneverrest/ESLint-Learning#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
