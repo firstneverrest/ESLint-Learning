@@ -1,2 +1,2 @@
-const text = 'hello world';
-console.log(text); // eslint-disable-line no-console
+const text = 'hello world'
+console.log(text) // eslint-disable-line no-console
